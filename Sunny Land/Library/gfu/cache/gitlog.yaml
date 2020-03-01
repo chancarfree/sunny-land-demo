@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-03-01T23:34:20.878+08:00
+  initializedAtString: 2020-03-01T23:20:35.975+08:00
+  log:
+  - commitID: 3a3c9d08b782e1a077f505d5f1885ef595a092d2
+    mergeA: 
+    mergeB: 
+    authorName: chancarfree
+    authorEmail: 348166215@qq.com
+    commitEmail: 348166215@qq.com
+    commitName: chancarfree
+    summary: Revert "Initial commit"
+    description: This reverts commit f045b7d86f4a5d2c71e703bdec5c9281d00ff899.
+    timeString: 2020-02-29T15:39:59.000+08:00
+    commitTimeString: 2020-02-29T15:39:59.000+08:00
+    changes:
+    - path: .gitattributes
+      fullPath: F:\UnityProject\Sunny Land\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: F:\UnityProject\Sunny Land\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: F:\UnityProject\Sunny Land\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: f045b7d86f4a5d2c71e703bdec5c9281d00ff899
+    mergeA: 
+    mergeB: 
+    authorName: chancarfree
+    authorEmail: 348166215@qq.com
+    commitEmail: 348166215@qq.com
+    commitName: chancarfree
+    summary: Initial commit
+    description: 
+    timeString: 2020-02-29T15:09:41.000+08:00
+    commitTimeString: 2020-02-29T15:09:41.000+08:00
+    changes:
+    - path: .gitattributes
+      fullPath: F:\UnityProject\Sunny Land\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: F:\UnityProject\Sunny Land\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: F:\UnityProject\Sunny Land\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
